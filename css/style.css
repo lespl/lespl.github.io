@@ -710,6 +710,7 @@ body.offcanvas {
     margin-left: 10px; }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
+  width: 90%;
   position: relative;
   background: #f2f3f7;
   padding: 1.5em;
